@@ -13,9 +13,7 @@ gem 'jwt'
 gem 'rails', '~> 5.0.1'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
-
 gem 'bcrypt', '~> 3.1.7'
-
 gem 'rack-cors'
 
 group :development, :test do
